@@ -48,7 +48,7 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AadeshTech/react_news/blob/master/public/AadeshTech.png)
+![AadeshTech](https://github.com/AadeshTech/react_news/assets/123294859/baae319d-123f-4075-bdb0-3ad0b2f1897e)
 
 ## Deployment
 
