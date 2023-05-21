@@ -25,7 +25,7 @@ Contributions are always welcome!
 Clone the project
 
 ```bash
-  git clone https://github.com/0Pixel0/news-monk
+  git clone https://github.com/AadeshTech/react_news.git
 ```
 
 Go to the project directory
